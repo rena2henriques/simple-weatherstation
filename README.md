@@ -35,19 +35,19 @@ You will need to insert your username and api key from the website in the code.
 
 Create the following applets on the IFTTT app:
 
-* Press a button to send the message "button" to the Adafruit IO feed. With this widget you can turn ON and OFF the built in LED from the micro-controller.
+* Press a button to send the message "button" to the Adafruit IO feed. With this widget you can turn ON and OFF the built in LED from the micro-controller - Sends the command 'button' to the feed.
 
-* Current condition changes to rain (Weather Underground).
+* Current condition changes to rain (Weather Underground) - Sends the command 'rain' to the feed.
 
-* Current condition changes to clear (Weather Underground).
+* Current condition changes to clear (Weather Underground) - Sends the command 'clear' to the feed.
 
-* Current temperature drops below 10ºC (Weather Underground). Sends the command 'cold' to the feed.
+* Current temperature drops below 10ºC (Weather Underground) - Sends the command 'cold' to the feed.
 
-* Current temperature rises above 10ºC (Weather Underground). Sends the command 'offcold' to the feed.
+* Current temperature rises above 10ºC (Weather Underground) - Sends the command 'offcold' to the feed.
 
-* Current temperature rises above 30ºC (Weather Underground). Sends the command 'hot' to the feed.
+* Current temperature rises above 30ºC (Weather Underground) - Sends the command 'hot' to the feed.
 
-* Current temperature drops below 30ºC (Weather Underground). Sends the command 'offhot' to the feed.
+* Current temperature drops below 30ºC (Weather Underground) - Sends the command 'offhot' to the feed.
 
 ## WI-FI connection
 
